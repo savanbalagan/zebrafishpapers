@@ -1,10 +1,21 @@
 Details of the zebrafish-related Twitter and Mastodon bots. 
 
-The idea for bots  was inspired by previous works behind flypapers and phypapers
+Currently active bots (last maintanence date: 15-07-2023):
+
+Twitter: 
+https://twitter.com/zebrafishpapers
+https://twitter.com/zebrafishdev
+
+Mastodon:
+https://botsin.space/@zebrafishpapers
+https://botsin.space/@zebrafishdev
+
+The idea for the above bots was inspired by previous works behind flypapers and phypapers
 1. https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/
 2. https://github.com/roblanf/phypapers  
 
 -----------------------
+Details of zebrafish bots:
 
 Twitter: @zebrafishpapers: 50 preprints/month from biorxiv and medrxiv via dlvr.it | Suffix $ instead of #. (RSS + text filter > Tweet) 
 Mastodon: @zebrafishpapers@botsin.space: All manuscripts from pubmed and preprints from biorxiv via IFTTT (RSS + text filter > Webhook > Mastodon). 
