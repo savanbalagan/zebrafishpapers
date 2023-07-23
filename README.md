@@ -9,7 +9,7 @@ https://twitter.com/zebrafishjobs
 
 Mastodon:<br/>
 https://botsin.space/@zebrafishpapers<br/>
-https://botsin.space/@zebrafishdev
+https://botsin.space/@zebrafishdev<br/>
 https://botsin.space/@zebrafishjobs
 
 The idea for the above bots was inspired by previous works behind flypapers and phypapers
