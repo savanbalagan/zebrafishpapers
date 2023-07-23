@@ -1,10 +1,11 @@
 Details of the zebrafish-related Twitter and Mastodon bots. 
 
-Currently active bots (last maintanence date: 15-07-2023):
+Currently active bots (last maintanence date: 23-07-2023):
 
 Twitter:<br/> 
 https://twitter.com/zebrafishpapers<br/>
-https://twitter.com/zebrafishdev
+https://twitter.com/zebrafishdev<br/>
+https://twitter.com/zebrafishjobs
 
 Mastodon:<br/>
 https://botsin.space/@zebrafishpapers<br/>
@@ -39,9 +40,19 @@ Text filter: zebrafish or danio rerio
 RSS links:<br/>
 bioRxiv: http://connect.biorxiv.org/biorxiv_xml.php?subject=developmental_biology+neuroscience<br/> 
 MedRxiv: http://connect.medrxiv.org/medrxiv_xml.php?subject=Pediatrics<br/> 
-Pubmed: https://pubmed.ncbi.nlm.nih.gov/rss/search/1HoKZG5k4YSPTqrmobd3gYvyMQxMMEpcyZ2kbhYcoiTw2maEQF/?limit=100&utm_campaign=pubmed-2&fc=20230107011534
 
+-----------------------
 
+Twitter: @zebrafishjobs: 50 zebrafish-related job ads/month from zfin, euraxess and jobrxiv via dlvr.it (RSS + text filter > Tweet).<br/> 
+ 
+Text filter: zebrafish or danio rerio or killifish or danionella
+
+RSS links:<br/>
+ZFIN:  https://zfin.atlassian.net/wiki/createrssfeed.action?types=blogpost&spaces=jobs&title=Zebrafish-Related+Job+Announcements&labelString%253D&excludedSpaceKeys%253D&sort=modified&maxResults=10&timeSpan=120&showContent=true <br/> 
+jobRxiv: https://jobrxiv.org/?s=zebrafish&feed=rss2<br/> 
+Euraxess: https://euraxess.ec.europa.eu/job-feed 
+
+-----------------------
 
 
 
