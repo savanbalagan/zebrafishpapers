@@ -10,6 +10,7 @@ https://twitter.com/zebrafishjobs
 Mastodon:<br/>
 https://botsin.space/@zebrafishpapers<br/>
 https://botsin.space/@zebrafishdev
+https://botsin.space/@zebrafishjobs
 
 The idea for the above bots was inspired by previous works behind flypapers and phypapers
 1. https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/
@@ -44,7 +45,8 @@ MedRxiv: http://connect.medrxiv.org/medrxiv_xml.php?subject=Pediatrics<br/>
 -----------------------
 
 Twitter: @zebrafishjobs: 50 zebrafish-related job ads/month from zfin, euraxess and jobrxiv via dlvr.it (RSS + text filter > Tweet).<br/> 
- 
+Mastodon: @zebrafishjobs@botsin.space: Jobs from ZFIN and jobRxiv via IFTTT (RSS > Webhook > Mastodon). 
+
 Text filter: zebrafish or danio rerio or killifish or danionella
 
 RSS links:<br/>
@@ -53,6 +55,4 @@ jobRxiv: https://jobrxiv.org/?s=zebrafish&feed=rss2<br/>
 Euraxess: https://euraxess.ec.europa.eu/job-feed 
 
 -----------------------
-
-
-
+If you would like to make these bot accounts more comprehensive by financial supporting for the PRO accounts, contact savanbalagan#gmail.com. 
